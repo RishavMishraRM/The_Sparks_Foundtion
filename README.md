@@ -16,3 +16,28 @@
                       
                       
                       (Dataset Used  :- https://bit.ly/3i4rbWl   (added as SuperStore.csv)
+
+
+###  In Task_4  :- Exploratory Data Analysis - Terrorism
+                      Perform ‘Exploratory Data Analysis’ on dataset ‘Global Terrorism’
+                      What all security issues and insights you can derive by EDA?
+                      
+                      
+                      (Dataset Used  :- https://bit.ly/2TK5Xn5   (added as global_terrism.csv)
+                      
+###  In Task_5  :- Exploratory Data Analysis - Sports
+                      Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
+                      As a sports analysts, find out the most successful teams, players and factors
+                      contributing win or loss of a team.
+                      
+                      
+                      (Dataset Used  :- https://bit.ly/34SRn3b   (added as matches.csv)    
+                      
+                      
+ ###  In Task_6  :- Prediction using Decision TreeAlgorithm
+                      Create the Decision Tree classifier and visualize it graphically.
+                      The purpose is if we feed any new data to this classifier, it would be able to
+                      predict the right class accordingly.
+                      
+                      
+                      (Dataset Used  :- https://bit.ly/3kXTdox   (added as iris.csv)                        
