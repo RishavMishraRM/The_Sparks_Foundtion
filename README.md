@@ -23,7 +23,7 @@
                       What all security issues and insights you can derive by EDA?
                       
                       
-                      (Dataset Used  :- https://bit.ly/2TK5Xn5   (added as global_terrism.csv)
+                      (Dataset Used  :- https://bit.ly/2TK5Xn5   (added as global_terrism.csv)(the dataset could not be uploaded as it excedes file limit so please download it.)
                       
 ###  In Task_5  :- Exploratory Data Analysis - Sports
                       Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
